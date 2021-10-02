@@ -1,10 +1,13 @@
-A: Bible of Gravity:
+Hi,
+My name is Hossein Shenavar and I am currently a research assistant at Ferdowsi University of Mashhad. Here, I will categorize useful texts on gravity, general relativity and cosmology. Also, I will try to introduce some video lectures, codes, etc., on these topics.
+
+**A: Bible of Gravity:**
 
 Gravitation 
 by Charles Misner, Kip Thorne, and John Wheeler
 
 
-B: Introductory Courses on GR:
+**B: Introductory Courses on GR:**
 
 1- Gravitation and Spacetime, 
 by Ohanian 1976
@@ -25,7 +28,7 @@ Oxford U., 1991
 4- Relativity, Gravitation and Cosmology: A Basic Introduction
 by Ta-Pei Cheng
 
-C: Graduate Courses on GR:
+**C: Graduate Courses on GR:**
 
 1- Spacetime and Geometry
 An Introduction to General Relativity
@@ -41,7 +44,7 @@ by James Hartle
 4- Introducing Einstein's Relativity
 by Ray d'Inverno
 
-D: Advanced Courses on GR:
+**D: Advanced Courses on GR:**
 
 1- Gravitation and Cosmology, by Steven Weinberg, John Wiley, 1972.
 
@@ -63,7 +66,7 @@ N. Straumann (2013)
 by Eric Poisson, Clifford M.  Will
 
 
-E: The toolkit and Problem books:
+**E: The toolkit and Problem books:**
 
 1- A Relativist's Toolkit: The Mathematics of Black-Hole Mechanics 
 by Eric Poisson
@@ -74,7 +77,7 @@ by Lightman, Press, Price and Teukolsky, Princeton U., 1975.
 3- Schaums Outline of Tensor Calculus (Schaum's Outlines) 1st Edition
 by David Kay
 
-F: Mathematical GR:
+**F: Mathematical GR:**
 
 
 1-Exact Solutions of Einstein’s Field Equations
@@ -99,7 +102,7 @@ Author(s):	Choquet-Bruhat Y., DeWitt-Morette C., Dillard-Bleick M
 
 
 
-H: Histrorical and conceptual books on GR:
+**H: Histrorical and conceptual books on GR:**
 
 1- Gravity
 Book by George Gamow
@@ -113,13 +116,34 @@ by George Gamow
 4- Black Holes and Time Warps, 
 by Kip Thorne, Norton, 1994
 
+5- Revolutions in Twentieth-Century Physics
+By DAVID J. GRIFFITHS
 
-I: Quantum Gravity
+6- Mach's Principle: From Newton's Bucket to Quantum Gravity
+Julian B. Barbour & Herbert Pfister ( Editors )
 
-J: Black Holes:
+**I: Quantum Gravity**
 
-K: Structure of Stars:
+**J: Black Holes:**
 
-L: Cosmology, Dark Matter, Dark Energy:
+**K: Structure of Stars:**
 
-M: Numerical GR:
+**L: Cosmology, Dark Matter, Dark Energy:**
+
+**M: Numerical GR:**
+
+**N:**
+
+**O: Old but Gold**
+1- Principles of Relativity Physics
+By James L. Anderson
+Elsevier Science & Technology Books (1967)
+
+2- The theory of space, time, and gravitation 
+By Fock V. (1964, Pergamon) 
+
+3- Relativity: The General Theory 
+by JL Synge 1960
+
+4- SPACE—TIME-MATTER
+BY HERMANN WEYL
