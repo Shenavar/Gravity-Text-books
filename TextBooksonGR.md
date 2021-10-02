@@ -150,5 +150,5 @@ By Fock V. (1964, Pergamon)
 3- Relativity: The General Theory;
 by JL Synge 1960
 
-4- SPACE—TIME-MATTER;
+4- SPACE-TIME-MATTER;
 BY HERMANN WEYL
