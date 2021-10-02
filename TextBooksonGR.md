@@ -136,9 +136,18 @@ Julian B. Barbour & Herbert Pfister ( Editors )
 
 **L: Cosmology, Dark Matter, Dark Energy:**
 
-**M: Numerical GR:**
+**M: Classical Mechanics:**
 
-**N:**
+1- Classical Mechanics ( 3rd Edition );
+by Herbert Goldstein, Charles Poole, John Safko
+
+2- Mechanics; by Keith Symon
+
+3- Classical dynamics of particles and systems; 
+by Thornton, Stephen T., Marion, Jerry B.
+
+
+**N:  Numerical GR**
 
 **O: Old but Gold**
 
